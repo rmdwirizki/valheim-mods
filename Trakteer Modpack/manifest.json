@@ -1,6 +1,6 @@
 {
     "name": "TrakteerModpack",
-    "version_number": "1.0.2",
+    "version_number": "1.0.4",
     "website_url": "",
     "description": "Official Trakteer Modded Server Modpack",
     "dependencies": [
@@ -21,8 +21,14 @@
         "MathiasDecrock-SeedTotem-4.2.0",
         "OdinPlus-TeleportEverything-1.7.0",
         "Smoothbrain-DualWield-1.0.2",
+        "Smoothbrain-Cooking-1.1.3",
         "Smoothbrain-Mining-1.1.1",
-        "thegreyham-CookingSkill-1.2.0",
+        "Smoothbrain-Evasion-1.0.0",
+        "Smoothbrain-Blacksmithing-1.1.2",
+        "Smoothbrain-Building-1.2.0",
+        "Smoothbrain-Lumberjacking-1.0.1",
+        "Smoothbrain-Sailing-1.1.2",
+        "Smoothbrain-Vitality-1.0.0",
         "Smoothbrain-Tenacity-1.0.0",
         "OhhLoz-HoneyPlus-2.0.2",
         "OdinPlus-DaedricBow-2.0.0",
@@ -32,8 +38,13 @@
         "OdinPlus-Better_Trader_Remake-2.1.3",
         "Valkria-ValheimRAFT-1.3.1",
         "JereKuusela-Wearable_Trophies-1.4.0",
-        "TrTeam-TrakteerModpackConfigurations-1.0.3",
+        "TrTeam-TrakteerModpackConfigurations-1.0.4",
         "Horem-Slimes_R_Us-0.1.2",
-        "UnJohnny-Outsiders-1.1.0"
+        "UnJohnny-Outsiders-1.1.0",
+        "Marlthon-SeaAnimals-0.0.8",
+        "Yggdrah-yggdrahsbetterlox-1.0.4",
+        "GemHunter1-NoAFKEvents-1.0.1",
+        "Frogger-TotemsOfUndying-1.0.1",
+        "RandyKnapp-ExtendedItemDataFramework-1.0.7"
     ]
 }
