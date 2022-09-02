@@ -1,6 +1,6 @@
 {
     "name": "TrakteerModpack",
-    "version_number": "1.0.5",
+    "version_number": "1.0.6",
     "website_url": "",
     "description": "Official Trakteer Modded Server Modpack",
     "dependencies": [
@@ -38,7 +38,7 @@
         "OdinPlus-Better_Trader_Remake-2.1.3",
         "Valkria-ValheimRAFT-1.3.1",
         "JereKuusela-Wearable_Trophies-1.4.0",
-        "TrTeam-TrakteerModpackConfigurations-1.0.6",
+        "TrTeam-TrakteerModpackConfigurations-1.0.7",
         "Horem-Slimes_R_Us-0.1.2",
         "UnJohnny-Outsiders-1.1.0",
         "Marlthon-SeaAnimals-0.0.8",
