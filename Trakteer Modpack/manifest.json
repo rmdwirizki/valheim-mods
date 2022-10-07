@@ -1,6 +1,6 @@
 {
     "name": "TrakteerModpack",
-    "version_number": "1.0.6",
+    "version_number": "1.0.7",
     "website_url": "",
     "description": "Official Trakteer Modded Server Modpack",
     "dependencies": [
@@ -49,6 +49,10 @@
         "Frogger-TotemsOfUndying-1.0.1",
         "OdinPlus-MadHatter-2.1.0",
         "MeatwareMonster-MoreDefenses-1.2.0",
-        "RandyKnapp-ExtendedItemDataFramework-1.0.7"
+        "RandyKnapp-ExtendedItemDataFramework-1.0.7",
+        "MathiasDecrock-PlanBuild-0.10.8",
+        "NexusReUploadByPan-Skills_Give_More_Carry_Weight-1.0.0",
+        "JereKuusela-Server_devcommands-1.27.0",
+        "JereKuusela-Upgrade_World-1.19.0"
     ]
 }
