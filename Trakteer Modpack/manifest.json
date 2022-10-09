@@ -1,6 +1,6 @@
 {
     "name": "TrakteerModpack",
-    "version_number": "1.0.9",
+    "version_number": "1.0.10",
     "website_url": "",
     "description": "Official Trakteer Modded Server Modpack",
     "dependencies": [
@@ -8,7 +8,6 @@
         "thedefside-Journey_To_Valhalla-1.1.3",
         "Nexus-Clock-1.4.3",
         "RandyKnapp-EquipmentAndQuickSlots-2.0.15",
-        "RandyKnapp-Auga-1.0.11",
         "FixItFelix-NoSkillDrain-1.0.1",
         "JoelOliMclean-NoRainDamage-1.2.1",
         "Xenofell-TorchesEternal-0.2.0",
@@ -38,7 +37,7 @@
         "OdinPlus-Better_Trader_Remake-2.1.3",
         "Valkria-ValheimRAFT-1.3.1",
         "JereKuusela-Wearable_Trophies-1.4.0",
-        "TrTeam-TrakteerModpackConfigurations-1.0.10",
+        "TrTeam-TrakteerModpackConfigurations-1.0.11",
         "Horem-Slimes_R_Us-0.1.2",
         "UnJohnny-Outsiders-1.1.0",
         "Marlthon-SeaAnimals-0.0.8",
@@ -53,6 +52,14 @@
         "MathiasDecrock-PlanBuild-0.10.8",
         "NexusReUploadByPan-Skills_Give_More_Carry_Weight-1.0.0",
         "JereKuusela-Server_devcommands-1.27.0",
-        "JereKuusela-Upgrade_World-1.19.0"
+        "JereKuusela-Upgrade_World-1.19.0",
+        "Desires-MoreUpgrades-1.0.0",
+        "Detalhes-ValheimLevelSystemVLS-1.7.2",
+        "RandyKnapp-MinimalStatusEffects-1.0.3",
+        "Fang86-MoreSlots-1.1.7",
+        "MaxiMods-MultiCraft-1.0.0",
+        "RandyKnapp-StationsAreContainers-1.0.1",
+        "OdinPlus-Fisticuffs-1.1.8",
+        "cjayride-CraftingFilter-0.6.1"
     ]
 }
